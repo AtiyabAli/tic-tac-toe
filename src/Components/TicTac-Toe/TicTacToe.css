@@ -44,3 +44,10 @@
     width: 546px;
     margin: auto;
 }
+.boxes img{
+    margin: 50px;
+}
+.title img {
+    margin: 20px;
+    height: 50px;
+}
